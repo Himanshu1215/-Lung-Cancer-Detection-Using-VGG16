@@ -30,8 +30,8 @@ Developed a robust Lung Cancer Detection system utilizing transfer learning with
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/adityamahimkar/iqothnccd-lung-cancer-dataset.git
-    cd iqothnccd-lung-cancer-dataset
+    git clone https://github.com/Himanshu1215/-Lung-Cancer-Detection-Using-VGG16.git
+    
     ```
 
 2. Create and activate a virtual environment:
